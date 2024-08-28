@@ -1,6 +1,6 @@
 passionate developer from india ,
 
-MERN stack and DevOps expert
+MERN stack|| React Native || DSA(C++) || DevOps ||
 
 
 ## 🌐 Socials:
@@ -19,4 +19,4 @@ MERN stack and DevOps expert
 ---
 [![](https://visitcount.itsvg.in/api?id=SachinM44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
