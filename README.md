@@ -1,52 +1,114 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:a855f7&height=200&section=header&text=Sachin%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%"/> <a href="https://github.com/SachinM44"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+ship;MERN+%7C+React+Native+%7C+DevOps+%7C+DSA(C%2B%2B);Blockchain+%2B+AI+%3D+my+playground;From+Bengaluru%2C+with+caffeine+%E2%98%95" alt="Typing SVG" /> </a> <br/> <a href="https://www.linkedin.com/in/sachin-m99/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/SachinM44"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=SachinM44&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" /> </div> <br/>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  About Me
-typescript
-const sachin = {
-  role:      "AI Engineer & Full Stack Developer",
-  location:  "Bengaluru, India 🇮🇳",
-  focus:     ["AI Agents", "Distributed Systems", "Web3"],
-  stack:     ["TypeScript", "Python", "C++", "Go"],
-  currently: "Building AI-powered security tooling",
-  learning:  ["LLM Fine-tuning", "Rust", "Kubernetes"],
-  motto:     "Ship fast, refactor faster."
-};
-🔭 Currently building AuditChain — decentralized security auditing for npm packages using AI + blockchain
-🌱 Deep-diving into LLM orchestration, vector databases, and agentic workflows
-💬 Ask me about MERN, React Native, System Design, or DevOps pipelines
-⚡ Fun fact: I debug better at 2 AM than at 2 PM
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:059669,100:0f172a&height=180&section=header&text=SACHIN%20M&fontSize=64&fontColor=34d399&animation=fadeIn&fontAlignY=38&desc=~/ai-engineer%20%C2%B7%20full-stack&descAlignY=58&descSize=16" width="100%"/>
+
+<a href="https://github.com/SachinM44">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+ai+engineer+%2F+full-stack;%24+building+%E2%86%92+agentic+systems+%2B+web3;%24+stack+%E2%86%92+ts+%7C+python+%7C+c%2B%2B+%7C+go;%24+location+%E2%86%92+bengaluru%2C+in" alt="typing" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sachin-m99/"><img src="https://img.shields.io/badge/linkedin-0f172a?style=flat-square&logo=linkedin&logoColor=34d399&labelColor=0f172a" height="28"/></a>
+<a href="https://github.com/SachinM44"><img src="https://img.shields.io/badge/github-0f172a?style=flat-square&logo=github&logoColor=34d399&labelColor=0f172a" height="28"/></a>
+
+</div>
+
 <br/>
-🛠️  Tech Arsenal
+
+```
+┌─ STATUS ─────────────────────────────────────────────────────────┐
+│                                                                  │
+│   role         AI Engineer · Full Stack Developer                │
+│   location     Bengaluru, IN                                     │
+│   building     AuditChain — AI + blockchain npm auditing         │
+│   exploring    LLM orchestration · vector DBs · agentic flows    │
+│   ask me       MERN · React Native · system design · devops      │
+│   uptime       best between 00:00 and 04:00 IST                  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## `01` &nbsp;Stack
+
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,java&theme=dark" />
-Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,html,css&theme=dark" />
-Backend & Data
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql,prisma&theme=dark" />
-AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,azure,git,linux,nginx&theme=dark" />
-Tools
-<img src="https://skillicons.dev/icons?i=figma,postman,vercel,vscode,githubactions&theme=dark" /> </div> <br/>
-📊  GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinM44&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" /> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinM44&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" /> <br/> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinM44&hide_border=true&background=0D1117&stroke=6366f1&ring=a855f7&fire=f59e0b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+<table>
+<tr>
+<td align="center" width="130"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,java&theme=dark" height="42"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite&theme=dark" height="42"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql&theme=dark" height="42"/></td>
+</tr>
+<tr>
+<td align="center"><b>AI / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="42"/></td>
+</tr>
+<tr>
+<td align="center"><b>Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,azure,linux&theme=dark" height="42"/></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## `02` &nbsp;Signals
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinM44&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=34d399&icon_color=34d399&text_color=94a3b8&bg_color=0f172a&ring_color=34d399" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinM44&layout=compact&hide_border=true&langs_count=8&title_color=34d399&text_color=94a3b8&bg_color=0f172a" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinM44&bg_color=0d1117&color=6366f1&line=a855f7&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Activity" /> </div> <br/>
-🏆  Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SachinM44&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" /> </div> <br/>
-🚀  Featured Projects
-<div align="center"> <a href="https://github.com/SachinM44/AuditChain"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachinM44&repo=AuditChain&hide_border=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" /> </a> <a href="https://github.com/SachinM44/Ampligo"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachinM44&repo=Ampligo&hide_border=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" /> </a> </div> <br/>
-🐍  Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/SachinM44/SachinM44/output/snake.svg" alt="Snake animation" /> </div> <br/>
-<div align="center">
-💡  Let's Build Something
-<a href="https://www.linkedin.com/in/sachin-m99/"> <img src="https://img.shields.io/badge/Reach%20out-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" /> </a>
+<img width="91%" src="https://streak-stats.demolab.com?user=SachinM44&hide_border=true&background=0F172A&stroke=1e293b&ring=34d399&fire=f59e0b&currStreakLabel=34d399&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
 <br/><br/>
 
-<i>"The best code is the code you never had to write twice."</i>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinM44&bg_color=0f172a&color=34d399&line=34d399&point=f59e0b&area=true&area_color=064e3b&hide_border=true&custom_title=commit%20history" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0891b2&height=120&section=footer" width="100%"/> </div>
+</div>
+
+<br/>
+
+## `03` &nbsp;Work
+
+<div align="center">
+
+<a href="https://github.com/SachinM44/AuditChain"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachinM44&repo=AuditChain&hide_border=true&title_color=34d399&icon_color=34d399&text_color=94a3b8&bg_color=0f172a" /></a>
+<a href="https://github.com/SachinM44/Ampligo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachinM44&repo=Ampligo&hide_border=true&title_color=34d399&icon_color=34d399&text_color=94a3b8&bg_color=0f172a" /></a>
+
+</div>
+
+<br/>
+
+## `04` &nbsp;Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinM44&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+</div>
+
+<br/>
+
+## `05` &nbsp;Grid
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SachinM44/SachinM44/output/snake.svg" alt="snake" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sachin-m99/"><img src="https://img.shields.io/badge/say%20hi-0f172a?style=for-the-badge&logo=minutemailer&logoColor=34d399&labelColor=0f172a"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:059669,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
