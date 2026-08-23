@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:059669,100:0f172a&height=180&section=header&text=SACHIN%20M&fontSize=64&fontColor=34d399&animation=fadeIn&fontAlignY=38&desc=~/ai-engineer%20%C2%B7%20full-stack&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://github.com/SachinM44">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+ai+engineer+%2F+full-stack;%24+building+%E2%86%92+agentic+systems+%2B+full stack;%24+stack+%E2%86%92+ts+%7C+python+%7C+c%2B%2B+%7C+go;%24+location+%E2%86%92+bengaluru%2C+in" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+ai+engineer+%2F+full-stack;%24+building+%E2%86%92+agentic+systems+%2B+web3;%24+stack+%E2%86%92+ts+%7C+python+%7C+c%2B%2B+%7C+go;%24+location+%E2%86%92+bengaluru%2C+in" alt="typing" />
 </a>
 
 <br/><br/>
@@ -19,10 +19,11 @@
 ┌─ STATUS ─────────────────────────────────────────────────────────┐
 │                                                                  │
 │   role         AI Engineer · Full Stack Developer                │
-│   location     not in Bengaluru, IN                              │      │
+│   location     Bengaluru, IN                                     │
+│   building     AuditChain — AI + blockchain npm auditing         │
 │   exploring    LLM orchestration · vector DBs · agentic flows    │
 │   ask me       MERN · React Native · system design · devops      │
-│   uptime       all time               │
+│   uptime       best between 00:00 and 04:00 IST                  │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
