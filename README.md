@@ -1,22 +1,52 @@
-passionate developer from india ,
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:a855f7&height=200&section=header&text=Sachin%20M&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=18" width="100%"/> <a href="https://github.com/SachinM44"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+ship;MERN+%7C+React+Native+%7C+DevOps+%7C+DSA(C%2B%2B);Blockchain+%2B+AI+%3D+my+playground;From+Bengaluru%2C+with+caffeine+%E2%98%95" alt="Typing SVG" /> </a> <br/> <a href="https://www.linkedin.com/in/sachin-m99/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/SachinM44"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=SachinM44&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" /> </div> <br/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  About Me
+typescript
+const sachin = {
+  role:      "AI Engineer & Full Stack Developer",
+  location:  "Bengaluru, India 🇮🇳",
+  focus:     ["AI Agents", "Distributed Systems", "Web3"],
+  stack:     ["TypeScript", "Python", "C++", "Go"],
+  currently: "Building AI-powered security tooling",
+  learning:  ["LLM Fine-tuning", "Rust", "Kubernetes"],
+  motto:     "Ship fast, refactor faster."
+};
+🔭 Currently building AuditChain — decentralized security auditing for npm packages using AI + blockchain
+🌱 Deep-diving into LLM orchestration, vector databases, and agentic workflows
+💬 Ask me about MERN, React Native, System Design, or DevOps pipelines
+⚡ Fun fact: I debug better at 2 AM than at 2 PM
+<br/>
+🛠️  Tech Arsenal
+<div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go,java&theme=dark" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,html,css&theme=dark" />
+Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql,prisma&theme=dark" />
+AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,azure,git,linux,nginx&theme=dark" />
+Tools
+<img src="https://skillicons.dev/icons?i=figma,postman,vercel,vscode,githubactions&theme=dark" /> </div> <br/>
+📊  GitHub Analytics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinM44&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" /> <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinM44&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" /> <br/> <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinM44&hide_border=true&background=0D1117&stroke=6366f1&ring=a855f7&fire=f59e0b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
 
-MERN stack|| React Native || DSA(C++) || DevOps ||
+<br/><br/>
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinM44&bg_color=0d1117&color=6366f1&line=a855f7&point=f59e0b&area=true&hide_border=true&custom_title=Contribution%20Activity" /> </div> <br/>
+🏆  Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SachinM44&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" /> </div> <br/>
+🚀  Featured Projects
+<div align="center"> <a href="https://github.com/SachinM44/AuditChain"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachinM44&repo=AuditChain&hide_border=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" /> </a> <a href="https://github.com/SachinM44/Ampligo"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SachinM44&repo=Ampligo&hide_border=true&title_color=6366f1&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" /> </a> </div> <br/>
+🐍  Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/SachinM44/SachinM44/output/snake.svg" alt="Snake animation" /> </div> <br/>
+<div align="center">
+💡  Let's Build Something
+<a href="https://www.linkedin.com/in/sachin-m99/"> <img src="https://img.shields.io/badge/Reach%20out-6366f1?style=for-the-badge&logo=minutemailer&logoColor=white" /> </a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sachin-m99) 
+<br/><br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SachinM44&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SachinM44&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinM44&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<i>"The best code is the code you never had to write twice."</i>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SachinM44&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=SachinM44&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0891b2&height=120&section=footer" width="100%"/> </div>
