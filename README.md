@@ -46,30 +46,6 @@ validation layers that catch what the model got wrong.
 
 <br/>
 
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [AuditChain](https://github.com/SachinM44/AuditChain)
-`AI` · `blockchain` · `supply-chain security`
-
-Decentralized security auditing for npm packages.
-LLM static analysis paired with on-chain audit
-attestations, so trust doesn't route through a
-single registry.
-
-</td>
-<td width="50%" valign="top">
-
-### [Exponus](https://github.com/SachinM44/Exponus)
-`Hono` · `Cloudflare Workers` · `Prisma`
-
-Globally distributed serverless publishing
-platform. End-to-end type safety through shared
-Zod schemas — auth, uploads, and content all
-validated from one source of truth.
 
 </td>
 </tr>
